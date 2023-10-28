@@ -1,8 +1,9 @@
 ![Quppy](docs/quppy.png)
 
-# Quppy 
-The [Quppy](https://github.com/ekera/quppy) library for [Python3](https://www.python.org) has been renamed to [Quaspy](https://github.com/ekera/quaspy) and moved to new repository. Please see instead the [Quaspy](https://github.com/ekera/quaspy) repository.
+# Quppy ➔ [Quaspy](https://github.com/ekera/quaspy)
+The [Quppy](https://github.com/ekera/quppy) library for [Python3](https://www.python.org) has been renamed to [Quaspy](https://github.com/ekera/quaspy) and has [moved to new repository](https://github.com/ekera/quaspy).
 
+## License
 The [Quppy](https://github.com/ekera/quppy) library was developed for academic research purposes. It grew out of our research project in an organic manner as research questions were posed and answered. It was distributed "as is" without warranty of any kind, either expressed or implied. For further details, see the [license](LICENSE.md).
 
 ## About and acknowledgments
